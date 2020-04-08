@@ -1,0 +1,71 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BorderLayDemo<第八章——图形用户界面_2bb4c199>",
+            "request": "launch",
+            "mainClass": "BorderLayDemo",
+            "projectName": "第八章——图形用户界面_2bb4c199"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ExceptionCase<第八章——图形用户界面_2bb4c199>",
+            "request": "launch",
+            "mainClass": "ExceptionCase",
+            "projectName": "第八章——图形用户界面_2bb4c199"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FlowLayDemo<第八章——图形用户界面_2bb4c199>",
+            "request": "launch",
+            "mainClass": "FlowLayDemo",
+            "projectName": "第八章——图形用户界面_2bb4c199"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GridLayDemo<第八章——图形用户界面_2bb4c199>",
+            "request": "launch",
+            "mainClass": "GridLayDemo",
+            "projectName": "第八章——图形用户界面_2bb4c199"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-JFrameDemo<第八章——图形用户界面_2bb4c199>",
+            "request": "launch",
+            "mainClass": "JFrameDemo",
+            "projectName": "第八章——图形用户界面_2bb4c199"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LoginDemo<第八章——图形用户界面_2bb4c199>",
+            "request": "launch",
+            "mainClass": "LoginDemo",
+            "projectName": "第八章——图形用户界面_2bb4c199"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MouseMoveAndClickDemo<第八章——图形用户界面_2bb4c199>",
+            "request": "launch",
+            "mainClass": "MouseMoveAndClickDemo",
+            "projectName": "第八章——图形用户界面_2bb4c199"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NullDemo<第八章——图形用户界面_2bb4c199>",
+            "request": "launch",
+            "mainClass": "MouseMoveAndClickDemo",
+            "projectName": "第八章——图形用户界面_2bb4c199"
+        }
+    ]
+}
